@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**lucasmdocarmo/lucasmdocarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas Mariano and I'm Senior Software Engineer focused on distributed systems, high-performance backend engineering, cloud-native architecture, and low-latency software.
 
-Here are some ideas to get you started:
+## About
+I build large-scale backend platforms with emphasis on performance, reliability, concurrency, and system design. My core work has centered on C#/.NET, cloud-native systems, distributed/event-driven architectures, and data-intensive services. I also work with modern C++ for performance-sensitive workloads and systems-level optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+- C# / .NET backend engineering
+- Distributed systems and event-driven architecture
+- Performance engineering, profiling, latency reduction
+- Cloud-native platforms on Azure and Kubernetes
+- Data-intensive pipelines and resilient APIs
+- Modern C++ for systems/performance-critical components
+
+## Current Focus
+- Deepening work in HPC, low-latency systems, and performance analysis
+- Building stronger open-source/public artifacts around system design and optimization
+- Expanding public repos that demonstrate architecture, performance, and engineering depth
+
+## Selected Work
+
+## Stack
+C#, .NET, ASP.NET Core, Azure, Kubernetes, Docker, Redis, SQL Server, PostgreSQL, Kafka, gRPC, GraphQL, OpenTelemetry, xUnit, C++, CMake, Boost
