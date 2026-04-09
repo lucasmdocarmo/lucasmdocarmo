@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lucas Mariano and I'm Senior Software Engineer focused on distributed systems, high-performance computing, backend engineering, data engineeering, cloud-native architecture, and low-latency software design. 
+I'm Lucas and I'm Senior Software Engineer focused on distributed systems, high-performance computing, backend engineering, data engineeering, cloud-native architecture, and low-latency software design. 
 
 ## About 
 I build large-scale backend platforms with emphasis on performance, reliability, concurrency, and system design. My core work has centered on C#/.NET, cloud-native systems, distributed/event-driven architectures, and data-intensive services. I also work with modern C++ for performance-sensitive workloads and systems-level optimization.
