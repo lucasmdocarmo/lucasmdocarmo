@@ -23,7 +23,7 @@ I build large-scale backend platforms with emphasis on performance, reliability,
 ## 👔 Selected Work 👔 
 ---
 ## 🔨 Working on 🔨
-# TrackerTerminal - A high-performance mock trading terminal mimicking the visual aesthetics and features of a Bloomberg Terminal.
+💼  TrackerTerminal - A high-performance mock trading terminal mimicking the visual aesthetics and features of a Bloomberg Terminal.
 
 ---
 ## 💻 Stack 💻
