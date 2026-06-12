@@ -8,11 +8,12 @@ I build large-scale backend platforms with emphasis on performance, reliability,
 ---
 ## 📚 Technical Focus 📚
 - C# / .NET backend engineering
-- Distributed systems and event-driven architecture
+- Modern C++ for systems/performance-critical components
+- Distributed, Real time, Low latency and Event-driven architectures
 - Performance engineering, profiling, latency reduction
 - Cloud-native platforms on Azure and Kubernetes
 - Data-intensive pipelines and resilient APIs
-- Modern C++ for systems/performance-critical components
+- Concurrency-aware architecture, cache-friendly structures and parallel algorithms at scale.
 ---
 ## 💎 Current Focus 💎
 - Deepening work in HPC, low-latency systems, and performance engineering.
@@ -22,8 +23,10 @@ I build large-scale backend platforms with emphasis on performance, reliability,
 ---
 ## 👔 Selected Work 👔 
 ---
-## 🔨 Working on 🔨
 - TrackerTerminal - A high-performance mock trading terminal mimicking the visual aesthetics and features of a Bloomberg Terminal.
+- CAGE: Cache-Augmented Generation for Extreme Latency Reduction in LLM Systems; Quantifying Distributed KV-Cache efficiency against I.R quality for LLM CAG models under HPC workloads.
+- Commander.CQRS - A faster, alternative to MediatR. Reflection-free dispatcher built on JIT-specialized generics and pipeline behaviors for request/response and streaming queries;
+- Performance.HFT.CPP - Repository designed to follow performance driven implementations of HFT strategies in C++ and Rust.
 
 ---
 ## 💻 Stack 💻
