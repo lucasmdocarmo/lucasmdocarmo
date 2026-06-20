@@ -18,6 +18,7 @@ Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Ex
 • Optimizing multi-threaded architectures, memory management, and high-fidelity data transport mechanics. 
 • Technical leadership and oversight on software architecture, data engineering, and system modernization.
 • Cloud experience focused on large-scale infrastructure and development for data pipelines, services, integrations, and platform-level provisioning for high-throughput environments.
+
 ---
 ## 💻 Technical Focus 💻
 • +10 years of Experience with C++ 23/20/17: CMake, Boost(Asio, Lockfree, Beast) OpenMP/MPI, Crow,  jemalloc / tcmalloc, FlatBuffers, Aeron);
@@ -31,6 +32,7 @@ Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Ex
 Software Architecture patterns; CQRS, DDD, SAGA, Microservices, Master-Slave, Outbox, CDC 
 Observability with Datadog, Grafana, ELK Stack, Dynatrace, AppDynamics.
 Algorithms & Data Structures / Dynamic Programming / Graph Theory / Linear & Non Linear Optimization
+
 ---
 ## 💎 Current Focus 💎
 - Deepening work in HPC, low-latency systems, and performance engineering.
