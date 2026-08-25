@@ -3,7 +3,7 @@
 Senior Engineer with 18 years of experience building backend infrastructure for high-throughput systems, with special focus on software designs that involve distributed, event driven, low latency, and real-time data processing. Specialist on performance engineering and analysis of infrastructure for critical operations.
 
 Research and Engineering focus HPC driven architectures, Shared/Distributed Memory, CPU Micro Architecture, NUMA-aware execution, SIMD, Caching, Parallelism/Concurrency-Aware Design, Multithreading, Async/Non-blocking IO, 
-Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Execution, Real-Time Flows and Fault/Resiliency Control;
+Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Execution, OpenMP/MPI, Real-Time Flows and Fault/Resiliency Control;
 
 ---
 ## 📚 Core Expertise 📚
@@ -17,8 +17,8 @@ Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Ex
 ---
 ## 💻 Technical Focus 💻
 - +15 years with C# .NET, EF, Azure SDK. APIs, Backend Development, Event Driven and Distributed Engineering.
-- +10 years of experience with C++ 23/20/17. Main skills with backend performance work, Boost package, Crow, Parallelism/Concurrency-aware designs, OpenMP/MPI
-- Proficiency with Microsoft Azure, Docker, Kubernetes, CI/CD pipelines, Observability, OpenTelemetry.
+- +10 years of experience with C++ 23/20/17. Main skills with backend performance work, Boost packages, Crow HTTP.
+- Proficiency with Microsoft Azure, Docker, Slurm, Kubernetes, CI/CD pipelines, Observability, OpenTelemetry.
 - Profiling: PerfView, Valgrind, dotTrace, Orbit, benchmarking.
 - Events: Kafka, RabbitMQ, EventGrid, Flink, Airflow.
 - Databases: SQL/NoSQL, MongoDB, CassandraDb, Redis, TimeScale, InfluxDb, CosmosDb, BlobStorage.
