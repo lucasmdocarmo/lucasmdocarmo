@@ -6,25 +6,18 @@ Research and Engineering focus HPC driven architectures, Shared/Distributed Memo
 Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Execution, OpenMP/MPI, Real-Time Flows and Fault/Resiliency Control;
 
 ---
-## 📚 Core Expertise 📚
-- Highly skilled with system design for cloud-native applications and complex systems. 
-- Engineering sub-millisecond execution engines and real-time market data aggregation services.
-- Experience with low latency design for concurrency, cache friendly and highly demandable software. 
-- Optimizing multi-threaded architectures, memory management, and high-fidelity data transport mechanics. 
-- Technical leadership and oversight on software architecture, data engineering, and system modernization.
-- Cloud experience focused on large-scale infrastructure and development for data pipelines, services, integrations, and platform-level provisioning for high-throughput environments.
+## Tech Stack
+- C# .NET, EF, Azure SDK. APIs, Backend Development, Event Driven and Distributed Engineering.
+- C++ 23/20/17. Main skills with backend performance work, Boost packages, Crow HTTP.
+- Python. Scripts, FastAPI, ML.
+- Rust
+- Azure, Docker, Slurm, Kubernetes, CI/CD pipelines, Observability, OpenTelemetry.
+- PerfView, Valgrind, dotTrace, Orbit.
+- Kafka, RabbitMQ, EventGrid, Flink, Airflow.
+- SQL/NoSQL, MongoDB, CassandraDb, Redis, TimeScale, InfluxDb, CosmosDb, BlobStorage.
 
 ---
-## 💻 Technical Focus 💻
-- +15 years with C# .NET, EF, Azure SDK. APIs, Backend Development, Event Driven and Distributed Engineering.
-- +10 years of experience with C++ 23/20/17. Main skills with backend performance work, Boost packages, Crow HTTP.
-- Proficiency with Microsoft Azure, Docker, Slurm, Kubernetes, CI/CD pipelines, Observability, OpenTelemetry.
-- Profiling: PerfView, Valgrind, dotTrace, Orbit, benchmarking.
-- Events: Kafka, RabbitMQ, EventGrid, Flink, Airflow.
-- Databases: SQL/NoSQL, MongoDB, CassandraDb, Redis, TimeScale, InfluxDb, CosmosDb, BlobStorage.
-
----
-## 💎 Current Focus 💎
+## Current Focus
 - Deepening work in HPC, low-latency systems, and performance engineering.
 - Building stronger open-source/public artifacts around system design and optimization.
 - Expanding public repos that demonstrate architecture, algorithmic, performance, and engineering depth.
