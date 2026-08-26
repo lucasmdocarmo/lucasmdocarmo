@@ -9,11 +9,11 @@ Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Ex
 ## Tech Stack
 - C# .NET, EF, Azure SDK. APIs, Backend Development, Event Driven and Distributed Engineering.
 - C++ 23/20/17. Main skills with backend performance work, Boost packages, Crow HTTP.
-- Python. Scripts, FastAPI, ML.
-- Rust
+- Python: Scripts, FastAPI, ML.
+- Rust programming.
 - Azure, Docker, Slurm, Kubernetes, CI/CD pipelines, Observability, OpenTelemetry.
-- PerfView, Valgrind, dotTrace, Orbit.
-- Kafka, RabbitMQ, EventGrid, Flink, Airflow.
+- Performance Engineering, Low Level programming, PerfView, Valgrind, dotTrace, Orbit.
+- Kafka, RabbitMQ, EventGrid, Flink, Airflow, AKKA, ZeroMQ.
 - SQL/NoSQL, MongoDB, CassandraDb, Redis, TimeScale, InfluxDb, CosmosDb, BlobStorage.
 
 ---
