@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Senior Engineer with 18 years of experience building backend infrastructure for high-throughput systems, with special focus on software designs that involve distributed, event driven, low latency, and real-time data processing. Specialist on performance engineering and analysis of infrastructure for critical operations.
+Senior Engineer with 18 years of experience building backend infrastructure for high-throughput systems, with special focus on software designs that involve distributed, event driven, low latency, and real-time data processing. 
 
-Research and Engineering focus HPC driven architectures, Shared/Distributed Memory, NUMA-aware execution, SIMD, Caching, Parallelism/Concurrency-Aware Design and Multithreading.
+Specialist on performance engineering and analysis of infrastructure for critical operations. Research and Engineering focus HPC driven architectures, Parallelism/Concurrency-Aware Designs and Multithreading.
 
 ---
 ## Tech Stack
