@@ -2,8 +2,7 @@
 
 Senior Engineer with 18 years of experience building backend infrastructure for high-throughput systems, with special focus on software designs that involve distributed, event driven, low latency, and real-time data processing. Specialist on performance engineering and analysis of infrastructure for critical operations.
 
-Research and Engineering focus HPC driven architectures, Shared/Distributed Memory, CPU Micro Architecture, NUMA-aware execution, SIMD, Caching, Parallelism/Concurrency-Aware Design, Multithreading, Async/Non-blocking IO, 
-Lock-Free/SPSC/MPMC queues, Zero-Copy, Ring Buffers, GC Tuning, Deterministic Execution, OpenMP/MPI, Real-Time Flows and Fault/Resiliency Control;
+Research and Engineering focus HPC driven architectures, Shared/Distributed Memory, NUMA-aware execution, SIMD, Caching, Parallelism/Concurrency-Aware Design and Multithreading.
 
 ---
 ## Tech Stack
